@@ -1,0 +1,24 @@
+body{
+    background-color:cadetblue;
+    /*background-color: #FCD7AD*/;
+}
+hr{
+    background-color:none;
+    border-style: dotted none none;
+    border-style: 100px;
+    height:0px;
+    border-color:#eef5b2;
+    border-width:10px;
+    width:25%;
+    
+
+}
+h3{
+    color:#eef5b2;
+}
+h1{
+    color:##eef5b2;
+}
+img{
+    image-orientation:from-image;
+}
